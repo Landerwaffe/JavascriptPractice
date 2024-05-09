@@ -11,4 +11,6 @@ let person = {
 
 person.name = 15;
 
+person["name"] = 18;
+
 console.log(typeof person.name);
